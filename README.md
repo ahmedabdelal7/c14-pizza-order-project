@@ -11,6 +11,10 @@ The project focuses on applying and connecting different UI controls while dynam
 
 ---
 
+<img width="1181" height="682" alt="image" src="https://github.com/user-attachments/assets/edf7b1ee-323d-45fc-895a-930d9b111195" />
+
+---
+
 ## ⚙️ Features
 - Select pizza size (Small, Medium, Large)
 - Choose multiple toppings
