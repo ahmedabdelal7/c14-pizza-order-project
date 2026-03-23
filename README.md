@@ -11,7 +11,7 @@ The project focuses on applying and connecting different UI controls while dynam
 
 ---
 
-<img width="1181" height="682" alt="image" src="https://github.com/user-attachments/assets/edf7b1ee-323d-45fc-895a-930d9b111195" />
+<img width="1501" height="851" alt="image" src="https://github.com/user-attachments/assets/54cbe18c-4162-4e7b-92d3-530dc8c68ab4" />
 
 ---
 
