@@ -1,0 +1,10 @@
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\bin\Debug\Pitzza_Project.exe.config
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\bin\Debug\Pitzza_Project.exe
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\bin\Debug\Pitzza_Project.pdb
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\obj\Debug\Pitzza_Project.csproj.AssemblyReference.cache
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\obj\Debug\Pitzza_Project.Properties.Resources.resources
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\obj\Debug\Pitzza_Project.csproj.GenerateResource.cache
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\obj\Debug\Pitzza_Project.csproj.CoreCompileInputs.cache
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\obj\Debug\Pitzza_Project.exe
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\obj\Debug\Pitzza_Project.pdb
+E:\C#\Course_14\2-Course_14_Projects\Pitzza_Project\obj\Debug\Pitzza_Project.frmPizzaOrder.resources
