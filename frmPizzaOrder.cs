@@ -175,6 +175,7 @@ namespace Pitzza_Project
             UpdateTotalPrice();
 
             btnOrder.Enabled = true;
+            btnOrder.Cursor = Cursors.Hand;
 
             //Enable Group Boxes
             gbSize.Enabled = true;
@@ -220,7 +221,8 @@ namespace Pitzza_Project
 
             if (DialogResult == DialogResult.Yes) {
             
-                btnOrder.Enabled = false;   
+                btnOrder.Enabled = false;
+                btnOrder.Cursor = Cursors.No;
 
                 gbSize.Enabled = false;
                 gbCrustType.Enabled = false;    
@@ -298,12 +300,18 @@ namespace Pitzza_Project
         private void btnReset_Click(object sender, EventArgs e)
         {
             ResetForm();
-            gbSize.BackColor = Color.FromArgb(128, 255, 255, 255); // 50% white
         }
 
         private void frmPizzaOrder_Load(object sender, EventArgs e)
         {
+
             UpdateOderSummary();
+
+        }
+
+        private void overlay_Paint(object sender, PaintEventArgs e)
+        {
+
         }
     }
 }

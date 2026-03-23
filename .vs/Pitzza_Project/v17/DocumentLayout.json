@@ -3,11 +3,15 @@
   "WorkspaceRootPath": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|e:\\c#\\course_14\\2-course_14_projects\\pitzza_project\\frmpizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmpizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|solutionrelative:frmpizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmpizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|e:\\c#\\course_14\\2-course_14_projects\\pitzza_project\\frmpizzaorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|solutionrelative:frmpizzaorder.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|e:\\c#\\course_14\\2-course_14_projects\\pitzza_project\\frmpizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E4EDDA6-97B1-45A4-A31F-BCC050EAF1E7}|Pitzza_Project.csproj|solutionrelative:frmpizzaorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmPizzaOrder.cs [Design]",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.cs",
+              "RelativeDocumentMoniker": "frmPizzaOrder.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.cs [Design]*",
+              "RelativeToolTip": "frmPizzaOrder.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T19:14:23.664Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -42,20 +59,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "frmPizzaOrder.cs",
               "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.cs",
               "RelativeDocumentMoniker": "frmPizzaOrder.cs",
-              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.cs",
-              "RelativeToolTip": "frmPizzaOrder.cs",
-              "ViewState": "AQIAABwBAAAAAAAAAAAwwCwBAABPAAAA",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.cs*",
+              "RelativeToolTip": "frmPizzaOrder.cs*",
+              "ViewState": "AQIAACEBAAAAAAAAAAAtwDQBAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T20:39:49.109Z",
+              "WhenOpened": "2026-03-23T13:27:50.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "frmPizzaOrder.Designer.cs",
+              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.Designer.cs",
+              "RelativeDocumentMoniker": "frmPizzaOrder.Designer.cs",
+              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.Designer.cs*",
+              "RelativeToolTip": "frmPizzaOrder.Designer.cs*",
+              "ViewState": "AQIAAHoAAAAAAAAAAAAAAJAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T11:22:53.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -63,19 +93,8 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAIAAAAAAAAAAADgvxIAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T20:29:16.698Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "frmPizzaOrder.cs [Design]",
-              "DocumentMoniker": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.cs",
-              "RelativeDocumentMoniker": "frmPizzaOrder.cs",
-              "ToolTip": "E:\\C#\\Course_14\\2-Course_14_Projects\\Pitzza_Project\\frmPizzaOrder.cs [Design]",
-              "RelativeToolTip": "frmPizzaOrder.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-22T19:14:23.664Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-03-22T20:29:16.698Z",
+              "EditorCaption": ""
             }
           ]
         }
